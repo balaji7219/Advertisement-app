@@ -1,0 +1,21 @@
+.AdsContainer {
+  margin-top: 32px;
+  background: white;
+}
+
+.inactivecard {
+  background-color: #1497bbf4 !important;
+  min-height: 180px !important;
+}
+
+.card-subtitle {
+  color: white;
+  min-height: 180px !important;
+}
+
+.activecard {
+  background-color: #082e40 !important;
+}
+ul {
+  list-style-type: none;
+}
